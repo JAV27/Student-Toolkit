@@ -1,13 +1,13 @@
 {
-  "main.css": "/test/static/css/main.3705336f.chunk.css",
-  "main.js": "/test/static/js/main.7c809599.chunk.js",
-  "main.js.map": "/test/static/js/main.7c809599.chunk.js.map",
-  "static/js/1.b4150fc9.chunk.js": "/test/static/js/1.b4150fc9.chunk.js",
-  "static/js/1.b4150fc9.chunk.js.map": "/test/static/js/1.b4150fc9.chunk.js.map",
-  "runtime~main.js": "/test/static/js/runtime~main.5ad1e219.js",
-  "runtime~main.js.map": "/test/static/js/runtime~main.5ad1e219.js.map",
-  "static/css/main.3705336f.chunk.css.map": "/test/static/css/main.3705336f.chunk.css.map",
-  "index.html": "/test/index.html",
-  "precache-manifest.5453821f0f90e9701efe94f5220228c0.js": "/test/precache-manifest.5453821f0f90e9701efe94f5220228c0.js",
-  "service-worker.js": "/test/service-worker.js"
+  "main.css": "/Student-Toolkit/static/css/main.14c6f9bd.chunk.css",
+  "main.js": "/Student-Toolkit/static/js/main.0d50b6d3.chunk.js",
+  "main.js.map": "/Student-Toolkit/static/js/main.0d50b6d3.chunk.js.map",
+  "static/js/1.2455a027.chunk.js": "/Student-Toolkit/static/js/1.2455a027.chunk.js",
+  "static/js/1.2455a027.chunk.js.map": "/Student-Toolkit/static/js/1.2455a027.chunk.js.map",
+  "runtime~main.js": "/Student-Toolkit/static/js/runtime~main.ffee27de.js",
+  "runtime~main.js.map": "/Student-Toolkit/static/js/runtime~main.ffee27de.js.map",
+  "static/css/main.14c6f9bd.chunk.css.map": "/Student-Toolkit/static/css/main.14c6f9bd.chunk.css.map",
+  "index.html": "/Student-Toolkit/index.html",
+  "precache-manifest.be4bac5b65e3a85ccce23070446e2b36.js": "/Student-Toolkit/precache-manifest.be4bac5b65e3a85ccce23070446e2b36.js",
+  "service-worker.js": "/Student-Toolkit/service-worker.js"
 }
